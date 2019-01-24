@@ -1,0 +1,5 @@
+0 0 faisal/pf/class105 0 ahmed/cal/class105 ahmed/cal/class105 noor/ict-lab/lab103 noor/ict-lab/lab103 noor/ict-lab/lab103 
+0 0 0 shabano/isl/class105 shehla/be/class104 shehla/be/class104 0 shehroz/ict/class105 shehroz/ict/class105 
+ahmed/cal/class103 0 shehla/be/class102 faisal/pf/class105 0 afsar/eng/class103 0 0 0 
+0 faisal/pf-lab/lab103 faisal/pf-lab/lab103 faisal/pf-lab/lab103 afsar/eng/class101 0 faisal/pf/class104 0 0 
+shabano/isl/class102 0 0 0 shehroz/ict/class105 shehla/be-lab/lab102 shehla/be-lab/lab102 shehla/be-lab/lab102 0 

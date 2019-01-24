@@ -1,0 +1,9 @@
+pf 3
+pf-lab 3
+be 3
+be-lab 3
+ict-lab 3
+ict 3
+eng 2
+cal 3
+isl 2
